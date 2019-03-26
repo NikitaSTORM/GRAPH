@@ -1,0 +1,9 @@
+c:\users\kochtygov\documents\visual studio 2015\Projects\GRAF\GRAF\bin\Debug\GRAF.exe.config
+c:\users\kochtygov\documents\visual studio 2015\Projects\GRAF\GRAF\bin\Debug\GRAF.exe
+c:\users\kochtygov\documents\visual studio 2015\Projects\GRAF\GRAF\bin\Debug\GRAF.pdb
+c:\users\kochtygov\documents\visual studio 2015\Projects\GRAF\GRAF\obj\Debug\GRAF.csprojResolveAssemblyReference.cache
+c:\users\kochtygov\documents\visual studio 2015\Projects\GRAF\GRAF\obj\Debug\GRAF.Form1.resources
+c:\users\kochtygov\documents\visual studio 2015\Projects\GRAF\GRAF\obj\Debug\GRAF.Properties.Resources.resources
+c:\users\kochtygov\documents\visual studio 2015\Projects\GRAF\GRAF\obj\Debug\GRAF.csproj.GenerateResource.Cache
+c:\users\kochtygov\documents\visual studio 2015\Projects\GRAF\GRAF\obj\Debug\GRAF.exe
+c:\users\kochtygov\documents\visual studio 2015\Projects\GRAF\GRAF\obj\Debug\GRAF.pdb
